@@ -37,6 +37,8 @@ A simple tool for composing character sprites (FG) for visual novel engines (esp
 👉 Download the `.exe` from Releases and run it directly  
 👉 Release から `.exe` をダウンロードして実行してください  
 
+https://github.com/YDDLJW/Mado-FG-Sprite-Composer/releases
+
 基本流程：
 
 1. 添加身体图片（Body）  
