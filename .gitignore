@@ -41,3 +41,6 @@ output/
 outputs/
 temp/
 tmp/
+
+*.spec
+FG-Sprite-Composer.spec
